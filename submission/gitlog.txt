@@ -1,0 +1,436 @@
+commit 2d9b3efaf4fbcde7507f9b32ad445121db0d9a5b
+Merge: 23c2be2 ddacd65
+Author: liof <liof@itu.dk>
+Date:   Fri Mar 4 12:03:30 2022 +0100
+
+    Merge branch 'main' of https://github.itu.dk/liof/fyp2022p0105
+
+commit 23c2be201925a99f3f83c738df301b1ed58ddeb2
+Author: liof <liof@itu.dk>
+Date:   Fri Mar 4 12:03:20 2022 +0100
+
+    gitlog.txt updated
+
+commit ddacd6539b65a607062bc841ae21f2a44094b8c3
+Author: krzysztof-parocki <krpa@itu.dk>
+Date:   Fri Mar 4 11:43:32 2022 +0100
+
+    corrected the cases map
+
+commit 639dbcb77a5061c42af7aa48d2612d7b420a9a51
+Author: krzysztof-parocki <krpa@itu.dk>
+Date:   Fri Mar 4 11:21:22 2022 +0100
+
+    enhanced comments, deleted double regression
+
+commit 2fe44961cce3b2705a474cc72bcd5443de588b7d
+Author: liof <liof@itu.dk>
+Date:   Fri Mar 4 10:25:27 2022 +0100
+
+    gitlog.txt added
+
+commit 110e3b6a909aa515da8df14ca2880b3307bf04a2
+Author: liof <liof@itu.dk>
+Date:   Fri Mar 4 10:09:01 2022 +0100
+
+    commenting updated
+
+commit db57a9d215bf94a0c7802db7531386d55a30aedc
+Author: krzysztof-parocki <krpa@itu.dk>
+Date:   Fri Mar 4 01:59:26 2022 +0100
+
+    changed map scales to linear
+
+commit e490bd8a966db83baa5946625edd6aefbce3d91e
+Author: krzysztof-parocki <krpa@itu.dk>
+Date:   Fri Mar 4 01:37:32 2022 +0100
+
+    added additional maps - cases and population
+
+commit ba82b1f22924f27ceea3908f43e42a8fc597f07c
+Author: krzysztof-parocki <krpa@itu.dk>
+Date:   Fri Mar 4 00:12:59 2022 +0100
+
+    fixed weekly/monthly plots
+
+commit 25f5808ad5d714f35a526baa3fb5285c5c263e3e
+Author: Alfo <alfo@itu.dk>
+Date:   Thu Mar 3 18:41:30 2022 +0100
+
+    addedd mvr of SI and few minor changes
+
+commit 9cd68b6b87a2e919905356121dfbab621b825c01
+Author: liof <liof@itu.dk>
+Date:   Thu Mar 3 17:54:37 2022 +0100
+
+    coding finalised
+
+commit bba6aa2a42bb6e88add2c3d72d6b414bfc92dba6
+Author: liof <liof@itu.dk>
+Date:   Thu Mar 3 15:09:24 2022 +0100
+
+    final updated
+
+commit d0262b70aa39efd188a6aef54ed9e03e9e9dbc4e
+Author: liof <liof@itu.dk>
+Date:   Thu Mar 3 14:45:59 2022 +0100
+
+    FInal code notebook
+
+commit 5d4368fc2cd1971e26b2303464a5de3888849c4b
+Merge: f47a90a 2ac1ef7
+Author: liof <liof@itu.dk>
+Date:   Thu Mar 3 14:24:28 2022 +0100
+
+    Merge branch 'main' of https://github.itu.dk/liof/fyp2022p0105
+
+commit f47a90a5ddfd68994808fb1430f06fc59d078d1e
+Author: liof <liof@itu.dk>
+Date:   Thu Mar 3 14:24:21 2022 +0100
+
+    task3 added
+
+commit 2ac1ef7148ac0b05bb0e33eb3e2c8ec72a82bd8f
+Author: krzysztof-parocki <krpa@itu.dk>
+Date:   Thu Mar 3 11:41:35 2022 +0100
+
+    corrected outputs
+
+commit b3ffc86a74226fdc770a2569611a4adfb2e64901
+Author: krzysztof-parocki <krpa@itu.dk>
+Date:   Thu Mar 3 11:39:25 2022 +0100
+
+    added bivariate analysis
+
+commit 1cc0ad9706f08efb57e63b92a3414269dcc1879f
+Merge: 53048ff d901479
+Author: krzysztof-parocki <krpa@itu.dk>
+Date:   Thu Mar 3 11:35:10 2022 +0100
+
+    Merge branch 'main' of https://github.itu.dk/liof/fyp2022p0105
+
+commit 53048ff1f30c9590d780523e47ea18944f9ae54d
+Author: krzysztof-parocki <krpa@itu.dk>
+Date:   Thu Mar 3 11:32:23 2022 +0100
+
+    merged stuff
+
+commit d901479aa4c4396c0e38e7608818cb6294d69868
+Author: Raquel Marques <raqm@itu.dk>
+Date:   Thu Mar 3 11:29:40 2022 +0100
+
+    added map with cases and density
+
+commit 8c5470ada7f6aa1de1b52637fe2e5f4d6a96ae57
+Author: krzysztof-parocki <krpa@itu.dk>
+Date:   Thu Mar 3 11:27:01 2022 +0100
+
+    did bivariate analysis
+
+commit 65a469f70113bf83e895423244cccca4e51eaace
+Author: justedilyte <98816471+juste-dilyte@users.noreply.github.com>
+Date:   Thu Mar 3 09:56:24 2022 +0100
+
+    added the code for sd and mean
+
+commit f83aca1fcb12298b2de8092877a6d33234b7ce2f
+Merge: b845dc6 f3207a7
+Author: justedilyte <98816471+juste-dilyte@users.noreply.github.com>
+Date:   Thu Mar 3 09:54:24 2022 +0100
+
+    Merge branch 'main' of https://github.itu.dk/liof/fyp2022p0105
+
+commit b845dc677a295a7aeeee3f008238138ed40323a5
+Author: justedilyte <98816471+juste-dilyte@users.noreply.github.com>
+Date:   Thu Mar 3 09:47:27 2022 +0100
+
+    added code for the standard deviation and mean
+
+commit f3207a76576f3fafdabeb0a4cd85c8a00953e2d9
+Author: krzysztof-parocki <krpa@itu.dk>
+Date:   Thu Mar 3 00:12:32 2022 +0100
+
+    added additional comments
+
+commit 1d011cd50fedf13c91bf44f8dce74e8aa1a76349
+Merge: 8776864 9c8a162
+Author: krzysztof-parocki <krpa@itu.dk>
+Date:   Thu Mar 3 00:03:54 2022 +0100
+
+    Merge branch 'main' of https://github.itu.dk/liof/fyp2022p0105
+
+commit 8776864b5543cb3ef859657a1c342fda8db4a142
+Author: krzysztof-parocki <krpa@itu.dk>
+Date:   Thu Mar 3 00:03:49 2022 +0100
+
+    added maps
+
+commit 9c8a162cb88cd755195b5f0ed1e46d5cbd836a02
+Author: liof <liof@itu.dk>
+Date:   Wed Mar 2 21:42:34 2022 +0100
+
+    multivariate analysis completed
+
+commit 875713a605e7c56da202ea74d49aa0c052c08552
+Author: krzysztof-parocki <krpa@itu.dk>
+Date:   Wed Mar 2 17:05:26 2022 +0100
+
+    messing around
+
+commit ef6d1899142799c2cf03e99b3a1960f30b8a69eb
+Author: krzysztof-parocki <krpa@itu.dk>
+Date:   Wed Mar 2 17:04:39 2022 +0100
+
+    messing
+
+commit eef8c502b366d8f6509cfe6ee43ab3b25ec28da7
+Author: krzysztof-parocki <krpa@itu.dk>
+Date:   Wed Mar 2 17:03:14 2022 +0100
+
+    changed cases to cpc for plotting, created task 2 file
+
+commit 614c303dd2920f0fdae3b6d06ea737f78e498dd1
+Author: krzysztof-parocki <krpa@itu.dk>
+Date:   Wed Mar 2 12:14:41 2022 +0100
+
+    added log options to cases plots
+
+commit 0aa7220ad9b4d57a072c93d177592aa068c6bc74
+Author: krzysztof-parocki <krpa@itu.dk>
+Date:   Wed Mar 2 11:59:19 2022 +0100
+
+    cleared a bit
+
+commit 4259a32f3f6bf120357340ef118a57bacd5f5c65
+Author: krzysztof-parocki <krpa@itu.dk>
+Date:   Wed Mar 2 11:56:19 2022 +0100
+
+    added different binning
+
+commit 69a0ed6ebb4d7493f89dee42ad59653132193218
+Author: liof <liof@itu.dk>
+Date:   Wed Mar 2 11:50:18 2022 +0100
+
+    updated task 0
+
+commit 4a4c6d72c398698c7539acd7f2f2a0be6cbcd891
+Merge: 1a4c557 a80bc7e
+Author: krzysztof-parocki <krpa@itu.dk>
+Date:   Wed Mar 2 11:46:21 2022 +0100
+
+    Merge branch 'main' of https://github.itu.dk/liof/fyp2022p0105
+
+commit 1a4c557ebfbdad2c527cb08a36373fa5ab740cb6
+Author: krzysztof-parocki <krpa@itu.dk>
+Date:   Wed Mar 2 11:36:12 2022 +0100
+
+    added binned cases charts
+
+commit a80bc7ec3e36abc9fe2ffdf8fa46afed039e0d73
+Author: liof <liof@itu.dk>
+Date:   Wed Mar 2 11:26:16 2022 +0100
+
+    multivariate updated
+
+commit 1d1245c7ee57a0d3c4ac242e84edaed729f5c698
+Author: liof <liof@itu.dk>
+Date:   Tue Mar 1 22:05:06 2022 +0100
+
+    latest update from liam
+
+commit 5f36ed25bdc9515e763d36280a3afe496d1f6333
+Author: krzysztof-parocki <krpa@itu.dk>
+Date:   Tue Mar 1 16:33:30 2022 +0100
+
+    merged data into full_df
+
+commit 9a5003151d7e77629be156c33511449bee97e558
+Author: liof <liof@itu.dk>
+Date:   Tue Mar 1 15:20:52 2022 +0100
+
+    renamed notebook to task 0
+
+commit 7d58f63b04679eb3f57cde1a9094c1bd05326065
+Author: liof <liof@itu.dk>
+Date:   Tue Mar 1 15:19:07 2022 +0100
+
+    temp change added in cell
+
+commit c249a6dee013c535113ffc9fcad1b3d4c146816a
+Author: krzysztof-parocki <krpa@itu.dk>
+Date:   Tue Mar 1 15:11:17 2022 +0100
+
+    added stringency index formatting
+
+commit ac134ed1f333f726b526d190ba1da7e2b0e877e0
+Author: krzysztof-parocki <krpa@itu.dk>
+Date:   Tue Mar 1 15:03:11 2022 +0100
+
+    added stringency_index
+
+commit 85c6bec6d987df4206d5e2bbb5ece4200949ce1d
+Author: liof <liof@itu.dk>
+Date:   Tue Mar 1 15:00:53 2022 +0100
+
+    added associations file
+
+commit 15fcb716c9f62dfb9cd785573bed94bd7d3f491f
+Author: Alfo <alfo@itu.dk>
+Date:   Thu Feb 17 13:35:19 2022 +0100
+
+    added multivariate regression to notebooks
+
+commit 3a88bb971941aa6ea3accfd83593671e50954252
+Author: Alfo <alfo@itu.dk>
+Date:   Thu Feb 17 13:32:37 2022 +0100
+
+    Merge branch 'main' of https://github.itu.dk/liof/fyp2022p0105
+
+commit e041da66dc09b25fcaa450b1840851bbdb48a78f
+Author: liof <liof@itu.dk>
+Date:   Thu Feb 10 15:16:57 2022 +0100
+
+    added associations file
+
+commit 2114ccdd11110fb420aa9b4d483ff406504b5cad
+Author: krzysztof-parocki <krpa@itu.dk>
+Date:   Tue Feb 8 14:41:48 2022 +0100
+
+    cleared outputs
+
+commit 6a31b9f23616b0bbe214fe5ee22a7f65da8ac52b
+Author: krzysztof-parocki <krpa@itu.dk>
+Date:   Tue Feb 8 14:39:24 2022 +0100
+
+    changed germany to sweden
+
+commit 3de3ee8e4ed33dc3a990fd171a173d8658b752e0
+Author: krzysztof-parocki <krpa@itu.dk>
+Date:   Tue Feb 8 14:38:29 2022 +0100
+
+    changed germany to sweden
+
+commit 2b758d8f0c526871b043302d91d7b51b84898015
+Author: krzysztof-parocki <krpa@itu.dk>
+Date:   Tue Feb 8 14:34:01 2022 +0100
+
+    uploaded exercise two with cleared outputs
+
+commit fa4c90c33216ee5f4102cb33780aa103e3d7b5ba
+Merge: 0f645f2 fc2d394
+Author: krzysztof-parocki <krpa@itu.dk>
+Date:   Tue Feb 8 14:32:30 2022 +0100
+
+    Merge branch 'main' of https://github.itu.dk/liof/fyp2022p0105
+
+commit 0f645f2bcc65de209cce3a95300fa81a195de923
+Author: krzysztof-parocki <krpa@itu.dk>
+Date:   Tue Feb 8 14:32:27 2022 +0100
+
+    Co-authored-by: Altea Fogh <alfo@itu.dk>
+    Co-authored-by: Raquel Marques <raquelmarq@users.noreply.github.com>
+    Co-authored-by: juste-dilyte <juste-dilyte@users.noreply.github.com>
+    Co-authored-by: Liam O'Flaherty <liof@itu.dk>
+
+commit fc2d3941d6246559721ff7f82ab58325d518a448
+Merge: 10a9755 dc08967
+Author: Alfo <alfo@itu.dk>
+Date:   Tue Feb 8 12:31:19 2022 +0100
+
+    Merge branch 'main' of https://github.itu.dk/liof/fyp2022p0105
+
+commit 10a97555a9fa8f3279e355e49271846b1d18c222
+Author: AlteaF <alfo@itu.dk>
+Date:   Tue Feb 8 12:21:21 2022 +0100
+
+    tried to understand what is going on
+
+commit dc0896732fae11f619760f14efc874a020e61740
+Author: justedilyte <98816471+juste-dilyte@users.noreply.github.com>
+Date:   Tue Feb 8 12:19:13 2022 +0100
+
+    added DS_store to gitignore
+
+commit 2f946d980ef2ed69fd9a40b55fa9eca36d59cfe5
+Author: justedilyte <98816471+juste-dilyte@users.noreply.github.com>
+Date:   Mon Feb 7 11:48:06 2022 +0100
+
+    fixed the file path, so it would work for all
+
+commit 1ad2858c914ed992ff0f252e9fefddff9ccfe190
+Author: AlteaF <alfo@itu.dk>
+Date:   Fri Feb 4 12:43:46 2022 +0100
+
+    we did exercise 1 from 3/2/22
+
+commit 85c2a4f3981f5f64c532ea7a091804ba0f30c1b1
+Author: Krzysztof Michal Parocki <krpa@itu.dk>
+Date:   Thu Feb 3 14:35:06 2022 +0100
+
+    Update README.md
+
+commit 4f40ab80a1252e4e945f412844f945903468ef90
+Author: krzysztof-parocki <krpa@itu.dk>
+Date:   Thu Feb 3 13:42:03 2022 +0100
+
+    added raw data
+
+commit 87148ff883f8dee007d434a40156440157cdc5a0
+Author: Liam O'Flaherty <liof@itu.dk>
+Date:   Thu Feb 3 13:30:33 2022 +0100
+
+    Create .gitkeep
+
+commit 165b721f49df0ea8a29fe38116db6532d09f2fb6
+Author: Liam O'Flaherty <liof@itu.dk>
+Date:   Thu Feb 3 13:30:12 2022 +0100
+
+    Create .gitkeep
+
+commit fa07eed135b89877a079ab7dae394bef6041c365
+Author: Liam O'Flaherty <liof@itu.dk>
+Date:   Thu Feb 3 13:29:56 2022 +0100
+
+    Create .gitkeep
+
+commit aa482bcdb031b8bdbd2b6d901872aa51fe141f91
+Author: Liam O'Flaherty <liof@itu.dk>
+Date:   Thu Feb 3 13:29:40 2022 +0100
+
+    Create .gitkeep
+
+commit c33a46f4ea4dc1e21d0a43f455fa376ba7d57f44
+Author: Liam O'Flaherty <liof@itu.dk>
+Date:   Thu Feb 3 13:29:23 2022 +0100
+
+    Create .gitkeep
+
+commit cd52e6f4442b52fee42b2d0620500176757e3705
+Author: Liam O'Flaherty <liof@itu.dk>
+Date:   Thu Feb 3 13:29:03 2022 +0100
+
+    Create .gitkeep
+
+commit 86128661e537bf5f9a0fc02d084baf8151e31860
+Author: Liam O'Flaherty <liof@itu.dk>
+Date:   Thu Feb 3 13:28:45 2022 +0100
+
+    Create .gitkeep
+
+commit 963b899fb058e09bb163322d0c4176a075b1568f
+Author: Liam O'Flaherty <liof@itu.dk>
+Date:   Thu Feb 3 13:27:29 2022 +0100
+
+    Create .gitkeep
+
+commit 58a43b9f5d08649e583adce8a4857a23a54129bd
+Author: Liam O'Flaherty <liof@itu.dk>
+Date:   Thu Feb 3 13:26:44 2022 +0100
+
+    Create .gitkeep
+
+commit 04799985684a618a390310bf996c96c9c0a81133
+Author: Liam O'Flaherty <liof@itu.dk>
+Date:   Thu Feb 3 13:25:09 2022 +0100
+
+    Initial commit
